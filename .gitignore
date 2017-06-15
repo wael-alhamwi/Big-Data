@@ -1,0 +1,10 @@
+# Gradle related files
+.gradle/
+.idea/
+build/
+*.env
+
+/bin/
+src/main/resources/
+.classpath
+elasticsearch-data/
